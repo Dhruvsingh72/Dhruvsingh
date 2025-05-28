@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dhruv Chauhan
+# 👋 Hi, I'm Dhruv Singh
 
 🎓 BCA Student | 💻 Aspiring Web Developer & Data Analyst  
 🌱 Currently mastering **Java** and **Python**  
